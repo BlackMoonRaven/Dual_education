@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Homework_2_4, Configuration: Debug Any CPU ------
+1>  Homework_2_4 -> C:\Users\QQQ\source\repos\Homework_2_4\Homework_2_4\bin\Debug\Homework_2_4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -25,3 +25,5 @@ wood = Byer("Дерево", "10")
 pasiv_wood = Byer("Обробленне Дерево", "50")
 pasiv_test_wood = Byer("Обтесне Дерево", "100")
 stone_wood = Byer("Кам'яне Дерево", "500")
+
+a = 10
